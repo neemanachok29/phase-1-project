@@ -1,0 +1,9 @@
+{
+    "rooms": [
+        {
+            "roomId": "1",
+            "roomAmount":"15"
+        }
+ 
+    ]
+}
