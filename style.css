@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  font-family: 'prompt' sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: #617b9d;
+  text-align: center;
+}
+
+header{
+  text-align: center;
+  margin-bottom: auto;
+}
+*{
+  margin-top: 2px;
+  padding: 0;
+}
+p {
+    font-size: 1.40em;
+  }
+
+
+
